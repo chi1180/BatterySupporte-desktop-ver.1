@@ -1,0 +1,10 @@
+----
+要件定義
+
+[] start on signed in <at last>
+[#] minimize in system try (when app's close btn clicked)
+[#] set icon
+[#] change name PowerForecast -> BatterySupporter
+
+-- if can do --
+- open link on browser
