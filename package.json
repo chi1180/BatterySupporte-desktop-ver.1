@@ -1,0 +1,15 @@
+{
+  "name": "battery-supporter-desktop-ver.1",
+  "version": "1.0.0",
+  "description": "A desktop application linked with battery-supporter-web-ver.2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+  },
+  "author": "Chihiro Watanabe",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
